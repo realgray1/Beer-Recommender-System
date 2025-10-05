@@ -3,7 +3,7 @@ University of Texas at Austin – MSBA Program
 
 This repository contains two applied NLP projects completed for the *Unstructured Data Analytics* course at the McCombs School of Business. Both projects focus on transforming raw text into structured insights using data science methods. The goal was to design reproducible workflows that extract, clean, and model unstructured text data for measurable outcomes.
 
-Each project showcases the full data science lifecycle — web scraping, data preparation, natural language processing, and insight generation — applied to real-world, messy datasets.
+Each project showcases the full data science lifecycle of web scraping, data preparation, natural language processing, and insight generation applied to real-world, messy datasets.
 
 ---
 
